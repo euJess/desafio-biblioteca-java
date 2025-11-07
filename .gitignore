@@ -1,0 +1,19 @@
+# Arquivos compilados do Java
+*.class
+/out/
+
+# Arquivos de Log
+*.log
+
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Arquivos do Maven (vai que você usa no futuro)
+/target/
+
+# Arquivos do Gradle (vai que você usa no futuro)
+/build/
+.gradle/
