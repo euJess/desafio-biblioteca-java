@@ -8,4 +8,15 @@ public class  Livro {
         this.titulo = titulo;
         this.autor = autor;
     }
+
+    //getter para o titulo
+    public String getTiluto() {
+        return this.titulo;
+    }
+
+    //getter para autor
+    public String getAutor() {
+        return this.autor;
+    }
+
 }
